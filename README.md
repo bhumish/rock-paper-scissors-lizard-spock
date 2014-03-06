@@ -8,6 +8,6 @@ To play the game, simply run `python game.py`. You need to choose a single eleme
 
 ====================
 
-Needs Python 2.5+ installed
-Version 1.1.0
-GUI to be added
+* Needs Python 2.5+ installed
+* Version 1.1.0
+* GUI to be added
